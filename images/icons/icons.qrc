@@ -257,4 +257,7 @@
     <file>icon_restore.png</file>
     <file>icon_settings.png</file>
   </qresource>
+  <qresource prefix="logo">
+    <file>icono.ico</file>
+  </qresource>
 </RCC>
